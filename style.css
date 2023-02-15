@@ -1,0 +1,16 @@
+body
+{
+	background-image:url("melanie-martinez.jpg");
+	text-align: center;
+	background-size: cover;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(70, 8, 35);
+}
+canvas
+{
+	background: rgb(247, 196, 204);
+	border-radius: 20px;
+}
